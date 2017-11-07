@@ -11,7 +11,7 @@
 The goal of the player will be to survive the last Barbarian attack. In order to reach this attack, he will have to transform his initial small encampment into the new Rome. In order to do so, he will have to go through different levels of city.
   
 # City Levels
-When the player gains a level, new buildings, new ressources and new events will be unlocked.
+When the player gains a level, new technologies and new events will be unlocked.
   - Encampment (5-30 people)
   - Small village (30-100 people)
   - Village (100-500 people)
