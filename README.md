@@ -20,7 +20,7 @@ When the player gains a level, new buildings, new ressources and new events will
   - The new Rome (2000+)
     
 # In Game Loop
-One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will one big event per season and it will be positive or negative depending on what choices you make. Your behaviour will be judged with three sliders:
+One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will one big event per season and it will be positive or negative depending on what choices you make. Your behaviour will be judged with four sliders:
   - Happy / Angry
   - Security / Crime
   - Diplomatic / Rude
@@ -32,7 +32,7 @@ In addition to these events, the player will have to manage different ressources
   - Army
   - Money
   
-# Class
+# Classes
 When beginning a new game, the player will have the choice between classes. Depending on which class he choses, different bonuses and maluses will have an impact on the player's sliders and ressources:
   - Warrior:
     - Bonus: More starting soldiers units and the player will have access to level 2 barracks from the beginning. The Security slider       will be at 75%.
@@ -53,3 +53,10 @@ When beginning a new game, the player will have the choice between classes. Depe
     - Bonus: none
     - Malus: Less of every ressource. Every slider starts at 25%
   
+# Competence Tree
+The competence tree will be divided in five parts:
+  - Population: Upgrading this part will give bonuses related to the population. Making them more productive, healthy, happy and less     hungry for example.
+  - Farming
+  
+# Buildings
+
