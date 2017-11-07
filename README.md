@@ -18,6 +18,8 @@ When the player gains a level, new technologies and new events will be unlocked.
   - Town (500-1000)
   - City (1000-2000)
   - The new Rome (2000+)
+  
+To gain a level, the player will have to pay a tribute to the person reigning over the area where the city is located. At some point, the player should be powerfull enough to beat him in a war. The player will have to chose if he wants to keep paying this tribute or if he wants to defeat him and take the area's control.
     
 # In Game Loop
 One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will be one big event per season and it will be positive or negative depending on what choices the player makes. The player's behaviour will be judged with four sliders:
@@ -85,3 +87,9 @@ The player will have different ways of obtaining new technologies. The easiest o
 - The bonus given by a building will depend on the building's level. In order to improve a building, the player will have to unlock the   improvement via the technology tree. Once the improvement is unlocked, he will pay for each building he wants to improve.
 
 - The production building's (Farms, Barracks and Markets) bonus will also depend on how many citizen are working there. In order to have   a bonus the player will have to affect at least one citizen to this building. Then if he wants to affect more citizens to this           building, it's income will be multiplied by the amount of citizens. The maximum number of citizens per building will be of 5.
+
+# Ideas
+
+# Technology Ideas
+
+# Event Ideas
