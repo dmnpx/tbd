@@ -20,7 +20,7 @@ When the player gains a level, new buildings, new ressources and new events will
   - The new Rome (2000+)
     
 # In Game Loop
-One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will one big event per season and it will be positive or negative depending on what choices you make. Your behaviour will be judged with four sliders:
+One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will be one big event per season and it will be positive or negative depending on what choices you make. Your behaviour will be judged with four sliders:
   - Happy / Angry
   - Security / Crime
   - Diplomatic / Rude
