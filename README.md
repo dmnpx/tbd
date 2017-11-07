@@ -4,7 +4,7 @@
 
 # Game
   - Era: Roman Age
-  - Type: RPG / Management / Fantastic?
+  - Type: RPG / Management / ?Fantastic?
   - Turn by turn
   
 # Main Goal
