@@ -55,8 +55,23 @@ When beginning a new game, the player will have the choice between classes. Depe
   
 # Competence Tree
 The competence tree will be divided in five parts:
-  - Population: Upgrading this part will give bonuses related to the population. Making them more productive, healthy, happy and less     hungry for example.
-  - Farming
+  - Population: Will give bonuses related to the population. Making them more productive, healthy, happy and less hungry for example.
+  - Farming: Will give bonuses related to the food. More food producted, less population needed to do food.
+  - Army: Will give bonuses related to the army. Allow to product more units per turn, cheaper units.
+  - Economy: Will give bonuses related to the money. More money produced per market, less people required in markets.
+  - Bonus: These technology will be particular ones. They will cost a lot more but will give a big bonus. They could directly infect the   sliders.
+  
+The player will have different ways of obtaining new technologies. The easiest one is buying them with money. But he could also decide to buy them with other ressources. If he does so, it could have an impact on the sliders depending on what he uses and in what quantity. Some technologies will also be dropped after events.
   
 # Buildings
+- Before ending his turn, the player will be able to build new buildings that will be available in the next turn. The amount he will be able to build will depend on how many citizens are affected to building.
 
+- When the new turn begins, the player will decide what he wants to turn the new buildings in. There are 4 choices:
+  - Habitation: Will increase your population
+  - Farms: Will increase your food
+  - Barracks: Will allow the player to transform people in soldiers
+  - Markets: Will increase your money
+  
+- The bonus given by a building will depend on the building's level. In order to improve a building, the player will have to unlock the   improvement via the technology tree. Once the improvement is unlocked, he will pay for each building he wants to improve.
+
+- The production building's (Farms, Barracks and Markets) bonus will also depend on how many citizen are working there. In order to have   a bonus the player will have to affect at least one citizen to this building. Then if he wants to affect more citizens to this           building, it's income will be multiplied by the amount of citizens. The maximum of citizens per building will be of 5.
