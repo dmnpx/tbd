@@ -68,7 +68,7 @@ When beginning a new game, the player will have the choice between classes. Depe
 # Competence Tree
 The competence tree will be divided in five parts:
   - Population: Will give bonuses related to the population. Making them more productive, healthy, happy and less hungry for example.
-  - Farming: Will give bonuses related to the food. More food producted, less population needed to do product.
+  - Farming: Will give bonuses related to the food. More food producted, less population needed to product.
   - Army: Will give bonuses related to the army. Allow to product more units per turn, cheaper units.
   - Economy: Will give bonuses related to the money. More money produced per market, less people required in markets.
   - Bonus: These technology will be particular ones. They will cost a lot more but will give a big bonus. They could directly infect the   sliders.
