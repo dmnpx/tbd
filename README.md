@@ -49,7 +49,7 @@ When beginning a new game, the player will have the choice between classes. Depe
   - God Gifted (unlocked after losing five games):
     - Bonus: Starting with more of every ressource and access to all level 2 buildings. Every slider starts at 75%
     - Malus: None
-  - Hardcore (unlocked after reaching New Rome twice):
+  - Hardcore (unlocked after reaching New Rome twice without using the God Gifted class):
     - Bonus: none
     - Malus: Less of every ressource. Every slider starts at 25%
   
