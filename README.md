@@ -20,7 +20,7 @@ When the player gains a level, new buildings, new ressources and new events will
   - The new Rome (2000+)
     
 # In Game Loop
-One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will be one big event per season and it will be positive or negative depending on what choices you make. Your behaviour will be judged with four sliders:
+One turn will be one season. Every turn the player will have to make two choices which will have an impact on the big event. There will be one big event per season and it will be positive or negative depending on what choices the player makes. The player's behaviour will be judged with four sliders:
   - Happy / Angry
   - Security / Crime
   - Diplomatic / Rude
@@ -32,6 +32,16 @@ In addition to these events, the player will have to manage different ressources
   - Army
   - Money
   
+# Sliders
+Each slider will vary between 0% and 100%. When a slider goes below 50% related bad events will be unlocked. In the opposit, when a slider goes above 60% related good events will be unlocked. In order to have continue his game, the player will have to maintain each of his sliders as close to 60% as possible.
+- Happy / Angry: Represents how your population is feeling. Wars, food, money and health will change this slider.
+- Security / Crime: Represents how your population behaves. Army, happyness and money will change this slider.
+- Diplomatic / Rude: Represents how other countries feel about you. Army, wars and overall power will change this slider.
+- Healthy / Unhealthy: Represents how healthy your population is. Food, money and buildings will change this slider.
+
+# Ressources
+Ressources are as important as sliders. They will higly affect the slider's status. In order to survive bad events, you will need enough of each ressources. 
+
 # Classes
 When beginning a new game, the player will have the choice between classes. Depending on which class he choses, different bonuses and maluses will have an impact on the player's sliders and ressources:
   - Warrior:
@@ -56,7 +66,7 @@ When beginning a new game, the player will have the choice between classes. Depe
 # Competence Tree
 The competence tree will be divided in five parts:
   - Population: Will give bonuses related to the population. Making them more productive, healthy, happy and less hungry for example.
-  - Farming: Will give bonuses related to the food. More food producted, less population needed to do food.
+  - Farming: Will give bonuses related to the food. More food producted, less population needed to do product.
   - Army: Will give bonuses related to the army. Allow to product more units per turn, cheaper units.
   - Economy: Will give bonuses related to the money. More money produced per market, less people required in markets.
   - Bonus: These technology will be particular ones. They will cost a lot more but will give a big bonus. They could directly infect the   sliders.
@@ -74,4 +84,4 @@ The player will have different ways of obtaining new technologies. The easiest o
   
 - The bonus given by a building will depend on the building's level. In order to improve a building, the player will have to unlock the   improvement via the technology tree. Once the improvement is unlocked, he will pay for each building he wants to improve.
 
-- The production building's (Farms, Barracks and Markets) bonus will also depend on how many citizen are working there. In order to have   a bonus the player will have to affect at least one citizen to this building. Then if he wants to affect more citizens to this           building, it's income will be multiplied by the amount of citizens. The maximum of citizens per building will be of 5.
+- The production building's (Farms, Barracks and Markets) bonus will also depend on how many citizen are working there. In order to have   a bonus the player will have to affect at least one citizen to this building. Then if he wants to affect more citizens to this           building, it's income will be multiplied by the amount of citizens. The maximum number of citizens per building will be of 5.
