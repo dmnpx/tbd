@@ -96,7 +96,7 @@ The player will have different ways of obtaining new technologies. The easiest o
   - Army Chief (army)
   - Economy Minister (money)
   
-The most the player have of one ressource, the more power the person represented by this ressource have. Every year, each one of them will give the player a mission. The difficulty of the mission will depend on how important the person is. Suceeding in the mission will increase the dedication of the person to the player while failing it will decrease it. If a very powerfull person doesn't have enough dedication to the player anymore, he will take control of the city and the player will lose the game.
+The most the player have of one ressource, the more power the person represented by this ressource have. Every year, each one of them will give the player a mission. The difficulty of the mission will depend on how important the person is. Suceeding in the mission will increase the dedication of the person to the player while failing it will decrease it. If a very powerfull person doesn't have enough dedication to the player anymore, he will take control of the city and the player will lose the game. The more powerfull a counceler becomes, the more dedication will be needed for him not to betray the player.
 
 # Technology Ideas
 ## Spying 
