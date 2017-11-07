@@ -33,7 +33,7 @@ In addition to these events, the player will have to manage different ressources
   - Money
   
 # Sliders
-Each slider will vary between 0% and 100%. When a slider goes below 50% related bad events will be unlocked. In the opposit, when a slider goes above 60% related good events will be unlocked. In order to have continue his game, the player will have to maintain each of his sliders as close to 60% as possible.
+Each slider will vary between 0% and 100%. When a slider goes below 50% related bad events will be unlocked. In the opposit, when a slider goes above 60% related good events will be unlocked. In order to continue his game, the player will have to maintain each of his sliders as close to 60% as possible.
 - Happy / Angry: Represents how your population is feeling. Wars, food, money and health will change this slider.
 - Security / Crime: Represents how your population behaves. Army, happyness and money will change this slider.
 - Diplomatic / Rude: Represents how other countries feel about you. Army, wars and overall power will change this slider.
