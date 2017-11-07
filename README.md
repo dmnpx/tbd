@@ -89,7 +89,21 @@ The player will have different ways of obtaining new technologies. The easiest o
 - The production building's (Farms, Barracks and Markets) bonus will also depend on how many citizen are working there. In order to have   a bonus the player will have to affect at least one citizen to this building. Then if he wants to affect more citizens to this           building, it's income will be multiplied by the amount of citizens. The maximum number of citizens per building will be of 5.
 
 # Ideas
+## City council
+- Composed of 4 people. 1 for each ressource.
+  - Prime Minister (population)
+  - Farming Minister (food)
+  - Army Chief (army)
+  - Economy Minister (money)
+  
+The most the player have of one ressource, the more power the person represented by this ressource have. Every year, each one of them will give the player a mission. The difficulty of the mission will depend on how important the person is. Suceeding in the mission will increase the dedication of the person to the player while failing it will decrease it. If a very powerfull person doesn't have enough dedication to the player anymore, he will take control of the city and the player will lose the game.
 
 # Technology Ideas
+## Spying 
+- 4 levels of spying. The higher the level of spying gets, the most precise the information you will have about your enemies. Will be in the bonus tree.
+  - Level 0: No information at all.
+  - Level 1: Rough estimation. Ex: 100-200 soldiers
+  - Level 2: Precise estimation. Ex 100-150 soldiers.
+  - Level 3: Very precise estimation. Ex 100-120 soldier
 
 # Event Ideas
