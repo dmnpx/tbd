@@ -44,7 +44,7 @@ Each slider will vary between 0% and 100%. When a slider goes below 50% related 
 # Ressources
 Ressources are as important as sliders. They will higly affect the slider's status. In order to survive bad events, you will need enough of each ressources. 
 
-# Classes
+# Background
 When beginning a new game, the player will have the choice between classes. Depending on which class he choses, different bonuses and maluses will have an impact on the player's sliders and ressources:
   - Warrior:
     - Bonus: More starting soldiers units and the player will have access to level 2 barracks from the beginning. The Security slider       will be at 75%.
